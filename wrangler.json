@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "glogui",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "eca07a34-d921-4c62-baa6-531c410f3cf5",
+      "database_name": "students"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
